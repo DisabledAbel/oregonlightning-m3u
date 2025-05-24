@@ -1,0 +1,4 @@
+m3u-playlist/
+├── playlist.m3u
+├── vercel.json   ✅ ← add this
+├── README.md
